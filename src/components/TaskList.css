@@ -11,7 +11,7 @@ color: red;
 min-height: 40px;
 width: 400px;
 background-color: rgb(146, 224, 169);
-border: solid 5px orange
+border: solid 6px orange
 }
 .todo > div+div {
     
