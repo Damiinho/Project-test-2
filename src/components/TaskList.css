@@ -1,0 +1,19 @@
+.important {
+    font-weight:bold;
+color: red;
+}
+.done {font-style: italic;}
+
+.todo {
+    display: flex;
+}
+.todo > div {
+min-height: 40px;
+width: 400px;
+background-color: rgb(146, 224, 169);
+border: solid 5px orange
+}
+.todo > div+div {
+    
+width: 90px;
+}
